@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nick, and I'm an enthusiast of technology and a programmer.</h2>
+<h2 align="left">Hi 👋! My name is Nick, and I'm an enthusiast of technology.</h2>
 
 ###
 
